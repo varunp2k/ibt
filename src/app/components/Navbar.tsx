@@ -109,7 +109,7 @@ export default function Navbar() {
                                 View Services
                             </Link>
                             <a
-                                href="https://infinitebuildingtech.com/"
+                                href="https://infinitebuildingtech.com/upvc_services/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 onClick={() => setServicesOpen(false)}
